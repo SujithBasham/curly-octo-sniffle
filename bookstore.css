@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container-book {
+    background-color: #1b1b1b;
+    background-size: cover;
+    padding: 20px;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.book-container {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+
+.wings-fire-img {
+    width: 100px;
+}
+
+.book-name {
+    color: #183b56;
+    font-size: 16px;
+    font-family: "Bree Serif";
+    font-weight: 600;
+}
+
+.about-book {
+    font-size: 12px;
+    font-family: "Bree Serif";
+    font-weight: 600;
+    color: #06070d;
+}
+
+.author {
+    font-size: 11px;
+    font-family: "Bree Serif";
+    font-weight: 500;
+    color: #183b56;
+}
+
+.description-container {
+    margin: 10px;
+}
+
+.button {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.recommended-books-title {
+    font-family: "Bree Serif";
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.books-size {
+    width: 70px;
+}
+
+.recommended-books-name {
+    font-size: 14px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.recommended-books-author {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.recommended-books-details-container {
+    margin-left: 10px;
+}
+
+.space {
+    margin-bottom: 10px;
+}
+
+.bg-detail-book {
+    background-color: #1b1b1b;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+}
+
+.img-detail {
+    width: 150px;
+}
+
+.text-pos {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.detail-book-author-name {
+    text-align: center;
+    font-size: 10px;
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+}
+
+.description-of-book {
+    font-size: 11px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    margin-left: 5px;
+}
+
+.button1 {
+    border-width: 0px;
+    background-color: orange;
+    color: #06070d;
+    margin-right: 5px;
+}

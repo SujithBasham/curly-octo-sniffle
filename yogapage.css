@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    text-align: center;
+    padding: 40px;
+}
+
+.home-img {
+    height: 260px;
+    width: 260px;
+    margin-top: 180px;
+    margin-left: 20px;
+}
+
+.main-title {
+    font-size: 22px;
+    font-weight: 700;
+    font-family: "Roboto";
+    color: #132d84;
+}
+
+.about-yoga {
+    font-family: "Roboto";
+    color: #253263;
+    font-weight: 600;
+}
+
+.button {
+    font-size: 14px;
+    background-color: #132d84;
+}
+
+.second-page {
+    background-color: #ffedcb;
+    background-size: cover;
+    padding: 20px;
+}
+
+.align-container {
+    text-align: center;
+}
+
+.secondpage-img {
+    width: 240px;
+    margin: 0px
+}
+
+.second-page-title {
+    color: #132d84;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.yoga-methods {
+    background-color: #ffe2ab;
+    background-size: cover;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.yoga-imgs {
+    width: 80px;
+    margin: 10px;
+}
+
+.yoga-name {
+    font-size: 16px;
+    color: #132d84;
+
+}
+
+.yoga-description {
+    font-size: 14px;
+    color: #253263;
+}
+
+.detials-of-yoga-method {
+    margin: 10px;
+}
